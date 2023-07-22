@@ -8,6 +8,10 @@
         "start": "next start",
         "lint": "next lint"
     },
+    "engines": {
+  "node": ">=16.18.1",
+  "npm": ">=6"
+},
     "dependencies": {
         "@walletconnect/ethereum-provider": "^2.9.1",
         "@walletconnect/modal": "^2.6.0",
